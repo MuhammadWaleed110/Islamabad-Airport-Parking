@@ -1,12 +1,6 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Islamabad Airport Parking Booking System allows users to reserve a parking spot at Islamabad International Airport with ease. The system provides a user-friendly interface where customers can enter their personal information, vehicle details, and parking duration to secure a parking space.
 
-Currently, two official plugins are available:
+Key Features: ✔ Personal Information Form: Users provide their name, email, and phone number for booking. ✔ Vehicle Information: Customers enter their car model and car number for identification. ✔ Parking Duration Selection: Users specify arrival and departure dates/times for accurate billing. ✔ Parking Type Options: Choose from Hourly, Daily, or Monthly parking plans. ✔ Real-Time Booking Summary: Displays selected parking type, duration, vehicle details, and total price. ✔ Easy Booking: A "Book Now" button allows users to confirm their reservation instantly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This system ensures a seamless parking experience, making airport visits more convenient.
