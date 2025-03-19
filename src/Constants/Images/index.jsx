@@ -1,5 +1,6 @@
-const bgISBImages = "/public/Bg_Isb_Airport.jpg";
-const logoIsbAirport = "/public/Logo_Isb_Airport.png";
+const bgISBImages = "Bg_Isb_Airport.jpg"; // Remove /public
+const logoIsbAirport = "Logo_Isb_Airport.png"; // Remove /public
+
 
 const Images = {
     bgISBImages,

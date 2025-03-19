@@ -37,7 +37,8 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2">
-              <img src={Images.logoIsbAirport} alt="Logo" className="w-8 h-8 object-fill" />
+<img src={Images.logoIsbAirport} alt="Logo" className="w-8 h-8 object-fill" />
+
               <span className="text-xl font-bold">Islamabad Airport Parking</span>
             </Link>
           </div>

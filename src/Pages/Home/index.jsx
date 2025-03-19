@@ -33,11 +33,12 @@ const Home = () => {
       <section className="relative h-[600px] flex items-center">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-green-900/90" />
-          <img
-            src={Images.bgISBImages}
-            alt="Airport Parking"
-            className="w-full h-full object-fill"
-          />
+<img
+  src={Images.bgISBImages}
+  alt="Airport Parking"
+  className="w-full h-full object-fill"
+/>
+
         </div>
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <motion.h1
